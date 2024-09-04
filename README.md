@@ -9,3 +9,9 @@
 ## About me
 
 Hi, I'm Edouard, junior developper at BeCode.
+
+| Rank | THING-TO-RANK |
+|-----:|---------------|
+|     1|               |
+|     2|               |
+|     3|               |
