@@ -1,7 +1,7 @@
 ## Hey
 
 <picture>
- <source media="(prefers-color-scheme: dark)" srcest=https://img.freepik.com/free-photo/gradient-blue-abstract-background-smooth-dark-blue-with-black-vignette-studio_1258-72478.jpg?t=st=1725448836~exp=1725452436~hmac=112521cb387a09921833ac3270fb187841c2a3f33d4fe3d456fc456a1c54f443&w=740">
+ <source media="(prefers-color-scheme: dark)" srcest="https://img.freepik.com/free-photo/gradient-blue-abstract-background-smooth-dark-blue-with-black-vignette-studio_1258-72478.jpg?t=st=1725448836~exp=1725452436~hmac=112521cb387a09921833ac3270fb187841c2a3f33d4fe3d456fc456a1c54f443&w=740">
  <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
  <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
 </picture>
